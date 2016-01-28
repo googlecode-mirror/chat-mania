@@ -1,0 +1,1 @@
+This project is a demonstration of group chat via websocket and the advanced implementation of HTML5 where we find bidirectional flow of information between the client and the server or between client and client.
